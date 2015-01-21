@@ -3,5 +3,6 @@
   "private": true,
   "dependencies": {
     "jquery2": "jquery#2.*"
-  }
+  },
+  "version": "0.5.3"
 }
